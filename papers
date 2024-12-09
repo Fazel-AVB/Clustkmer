@@ -1,6 +1,6 @@
 1. Fast and accurate protein structure search with Foldseek
 
-    Citation: van Kempen M, Kim SS, Tumescheit C, Mirdita M, Lee J, Gilchrist CLM, Söding J, Steinegger M. Fast and accurate protein structure search with Foldseek. Nat Biotechnol. 2024 Feb;42(2):243-246. doi: 10.1038/s41587-023-01773-0. Epub 2023 May 8. PMID: 37156916; PMCID: PMC10869269.
+    Citation: [van Kempen M, Kim SS, Tumescheit C, Mirdita M, Lee J, Gilchrist CLM, Söding J, Steinegger M. Fast and accurate protein structure search with Foldseek. Nat Biotechnol. 2024 Feb;42(2):243-246. doi: 10.1038/s41587-023-01773-0. Epub 2023 May 8. PMID: 37156916; PMCID: PMC10869269.] (https://pubmed.ncbi.nlm.nih.gov/37156916/)
 
     Summary: This paper introduces Foldseek, a tool for fast and accurate protein structure searches. The authors demonstrate its efficiency in large-scale protein database searches, highlighting significant improvements in speed and accuracy over existing methods.
 
