@@ -8,3 +8,4 @@ A Python module for identifying and analyzing conserved k-mers in protein sequen
 **Results**: Conserved k-mers clustered spatially and in domains. With the top 10 k-mers requiring at least 2 matches, 99.3% sensitivity and 99.7% specificity were achieved for the test cluster. Across 100 clusters, average sensitivity and specificity were 85.6% and 83.1%. Less predictive clusters contained intrinsically disordered regions or repetitive structures lacking conserved motifs.
 
 **Conclusion**: Conserved k-mers effectively identify protein structural motifs and classify sequences. The proposed workflow provides a promising approach to developing improved prefilters for protein structure search tools like Foldseek.
+[GitHub](https://github.com)
