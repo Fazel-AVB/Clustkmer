@@ -12,13 +12,13 @@ A Python module for identifying and analyzing conserved k-mers in protein sequen
 ## Papers 
 1. Fast and accurate protein structure search with Foldseek
 
-    Citation: [van Kempen M, Kim SS, Tumescheit C, Mirdita M, Lee J, Gilchrist CLM, Söding J, Steinegger M. Fast and accurate protein structure search with Foldseek. Nat Biotechnol. 2024 Feb;42(2):243-246. doi: 10.1038/s41587-023-01773-0. Epub 2023 May 8. PMID: 37156916; PMCID: PMC10869269.] (https://pubmed.ncbi.nlm.nih.gov/37156916/)
+    Citation: [van Kempen M, Kim SS, Tumescheit C, Mirdita M, Lee J, Gilchrist CLM, Söding J, Steinegger M. Fast and accurate protein structure search with Foldseek. Nat Biotechnol. 2024 Feb;42(2):243-246. doi: 10.1038/s41587-023-01773-0. Epub 2023 May 8. PMID: 37156916; PMCID: PMC10869269.](https://pubmed.ncbi.nlm.nih.gov/37156916/)
 
     Summary: This paper introduces Foldseek, a tool for fast and accurate protein structure searches. The authors demonstrate its efficiency in large-scale protein database searches, highlighting significant improvements in speed and accuracy over existing methods.
 
 2. MMseqs2 enables sensitive protein sequence searching for the analysis of massive data sets
 
-    Citation: [Steinegger M, Söding J. MMseqs2 enables sensitive protein sequence searching for the analysis of massive data sets. Nat Biotechnol. 2017 Nov;35(11):1026-1028. doi: 10.1038/nbt.3988. Epub 2017 Oct 16. PMID: 29035372.] (https://www.nature.com/articles/nbt.3988)
+    Citation: [Steinegger M, Söding J. MMseqs2 enables sensitive protein sequence searching for the analysis of massive data sets. Nat Biotechnol. 2017 Nov;35(11):1026-1028. doi: 10.1038/nbt.3988. Epub 2017 Oct 16. PMID: 29035372.](https://www.nature.com/articles/nbt.3988)
 
     Summary: This paper presents MMseqs2, a tool designed for sensitive and efficient protein sequence searching. The authors highlight its capability to handle massive datasets, providing a significant advantage for large-scale proteomics and genomics research.
 
